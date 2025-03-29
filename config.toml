@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo-cloudflare-pom.pages.dev/'
 languageCode = 'en-us'
 title = 'hugo-cloudflare-site'
 theme = "PaperMod"
