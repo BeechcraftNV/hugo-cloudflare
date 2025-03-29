@@ -1,6 +1,6 @@
 +++
 date = '2025-03-29T14:26:25-07:00'
-draft = true 
+draft = false 
 title = 'My First Post - modified(sk)'
 +++
 

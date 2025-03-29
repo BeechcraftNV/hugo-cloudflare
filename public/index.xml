@@ -1,1 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>hugo-cloudflare-site</title><link>https://hugo-cloudflare-pom.pages.dev/</link><description>Recent content on hugo-cloudflare-site</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate/><atom:link href="https://hugo-cloudflare-pom.pages.dev/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>hugo-cloudflare-site</title><link>https://hugo-cloudflare-pom.pages.dev/</link><description>Recent content on hugo-cloudflare-site</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sat, 29 Mar 2025 14:26:25 -0700</lastBuildDate><atom:link href="https://hugo-cloudflare-pom.pages.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post - modified(sk)</title><link>https://hugo-cloudflare-pom.pages.dev/posts/my-first-post/</link><pubDate>Sat, 29 Mar 2025 14:26:25 -0700</pubDate><guid>https://hugo-cloudflare-pom.pages.dev/posts/my-first-post/</guid><description>&lt;h1 id="welcome-to-my-website">Welcome to My Website&lt;/h1>
+&lt;h2 id="about-me">About Me&lt;/h2>
+&lt;p>Hello! I am an aspiring web developer and this is my personal website. Here you can find some of my projects, blogs, and contact information.&lt;/p>
+&lt;h3 id="my-interests">My Interests&lt;/h3>
+&lt;ul>
+&lt;li>Web Development&lt;/li>
+&lt;li>Data Science&lt;/li>
+&lt;li>Outdoor Activities&lt;/li>
+&lt;li>Reading Books&lt;/li>
+&lt;/ul>
+&lt;h2 id="my-projects">My Projects&lt;/h2>
+&lt;h3 id="project-one-personal-portfolio">Project One: Personal Portfolio&lt;/h3>
+&lt;p>A personal portfolio website built with HTML, CSS, and JavaScript. You can check it out &lt;a href="https://yourportfolio.com">here&lt;/a>.&lt;/p>
+&lt;h3 id="project-two-blog-platform">Project Two: Blog Platform&lt;/h3>
+&lt;p>A blogging platform developed using Hugo and deployed on GitHub Pages. You can read my posts &lt;a href="https://yourblog.com">here&lt;/a>.&lt;/p></description></item></channel></rss>
