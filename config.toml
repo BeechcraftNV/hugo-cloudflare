@@ -2,4 +2,9 @@ baseURL = 'https://hugo-cloudflare-pom.pages.dev/'
 languageCode = 'en-us'
 title = 'hugo-cloudflare-site'
 theme = "PaperMod"
+[params]
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ShowReadingTime = true
+
 
